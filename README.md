@@ -8,8 +8,10 @@ C solutions's for UVa
 - 220   Othello ✔
 - 227   Puzzle ✔
 - 232   Crossword Answers ✔
+- 253   Cube painting ✔
 - 455   Periodic Strings ✔
 - 489   Hangman Judge ✔
+- 508   Morse Mismatches ✔
 - 512   Spreadsheet Tracking ✔
 - 1225  Digit Counting ✔
 - 1339  Ancient Cipher ✔
@@ -19,6 +21,7 @@ C solutions's for UVa
 - 1587  Box ✔
 - 1588  Kickdown ✔
 - 1589  Xiangqi ✔
+- 1590  IP Networks ✔
 - 10340 All in All ✔
 - 11809 Floating-Point Numbers ✔
 - 12412 A Typical Homework (a.k.a Shi Xiong Bang Bang Mang) ✔

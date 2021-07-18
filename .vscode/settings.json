@@ -3,7 +3,4 @@
 	"[c]": {
 		"editor.wordWrapColumn": 120
 	},
-	"files.associations": {
-		"typeinfo": "cpp"
-	},
 }
