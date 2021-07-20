@@ -12,7 +12,9 @@ C solutions's for UVa
 - 455   Periodic Strings ✔
 - 489   Hangman Judge ✔
 - 508   Morse Mismatches ✔
+- 509   RAID! ✔
 - 512   Spreadsheet Tracking ✔
+- 815   Flooded! ✔
 - 1225  Digit Counting ✔
 - 1339  Ancient Cipher ✔
 - 1368  DNA Consensus String ✔
@@ -22,6 +24,8 @@ C solutions's for UVa
 - 1588  Kickdown ✔
 - 1589  Xiangqi ✔
 - 1590  IP Networks ✔
+- 1591  Data Mining ✔
 - 10340 All in All ✔
 - 11809 Floating-Point Numbers ✔
+- 12108 Extraordinarily Tired Students ✔
 - 12412 A Typical Homework (a.k.a Shi Xiong Bang Bang Mang) ✔
