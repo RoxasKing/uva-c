@@ -1,6 +1,7 @@
 # uva-c
 C solutions's for UVa
 
+- 101   The Blocks Problem ✔
 - 133   The Dole Queue ✔
 - 201   Squares ✔
 - 202   Repeating Decimals ✔
@@ -26,6 +27,7 @@ C solutions's for UVa
 - 1590  IP Networks ✔
 - 1591  Data Mining ✔
 - 10340 All in All ✔
+- 10815 Andy's First Dictionary ✔
 - 11809 Floating-Point Numbers ✔
 - 12108 Extraordinarily Tired Students ✔
 - 12412 A Typical Homework (a.k.a Shi Xiong Bang Bang Mang) ✔
